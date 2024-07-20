@@ -2,14 +2,6 @@
 
 ![alt text](image.png)
 
-# Project development
-## Package structure
-
-## Client 
-### Entity
-
-
-
 # Dev configuration
 
 ## C4 Model
