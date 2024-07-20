@@ -2,7 +2,7 @@
 
 ![alt text](image.png)
 
-# Dev configuration
+# Dev Environment
 
 ## C4 Model
 
@@ -46,7 +46,6 @@ System("System", "System Title", "System Description")
 @enduml
 ```
 
-# Dev Environment
 ## Go Language
 https://go.dev/doc/install
 
